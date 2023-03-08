@@ -1,0 +1,25 @@
+#title-1{
+    color:#93B5C6;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+.card-img-top{
+    width:100px;
+    margin: 25px auto;
+}
+
+td{
+    padding:10px;
+}
+
+.nav-link:hover{
+    color: #B9D7EA;
+}
+
+.nav-link:visited{
+    color: aliceblue;
+}
+
