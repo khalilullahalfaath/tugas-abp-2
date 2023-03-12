@@ -90,4 +90,10 @@ td{
     text-decoration: none;
   }
 
-
+.div-flex{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width:25%;
+    display: flex;
+    justify-content: space-between;
+}
