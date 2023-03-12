@@ -1,6 +1,13 @@
+body{
+    margin: 0;
+    font-size: 22px;
+}
+
 #title-1{
     color:#93B5C6;
 }
+
+
 
 .nav-link{
     color: aliceblue;
@@ -10,6 +17,34 @@
     width:100px;
     margin: 25px auto;
 }
+
+.img-skill{
+    width: 180px;
+}
+
+.img-sosmed{
+    width: 50px;
+}
+
+.portfolio-img{
+    width: 150px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    margin: 50px auto;
+    width: 5%;
+    border: 10px;
+    border-top: 0;
+    border-style: dotted;
+}
+
 
 td{
     padding:10px;
@@ -22,4 +57,37 @@ td{
 .nav-link:visited{
     color: aliceblue;
 }
+
+.contact-me{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
 
